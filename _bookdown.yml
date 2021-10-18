@@ -5,4 +5,4 @@ edit: https://github.com/lclindegaard/Bookdown-Template/edit/master/%s
 view: https://github.com/lclindegaard/Bookdown-Template/blob/master/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Section "
