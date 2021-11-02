@@ -1,13 +1,11 @@
 --- 
-title: "This is my title"
+title: "Interview"
 author: "Louise Lindegaard"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # Title of Section 1
-
-Text
 
 ```{r}
 #Code Snipit
